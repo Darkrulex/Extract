@@ -16,7 +16,7 @@ This Tool is Free anyone can use
 
 ☆ pip2 install requests mechanize
 
-☆ git clone https://github.com/THE-DEMON-ANNOS/777
+☆ git clone https://github.com/THE-DEMON-ANNOS/Extract
 
 ☆ cd Extract
 
